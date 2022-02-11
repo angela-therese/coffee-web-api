@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace CoffeeShop.Models
 {
-    public class Coffee
+    public class Coffees
     {
         public int Id { get; set; }
 

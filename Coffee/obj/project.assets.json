@@ -641,9 +641,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User-42\\workspace\\Coffee\\Coffee\\Coffee.csproj",
-      "projectName": "Coffee",
-      "projectPath": "C:\\Users\\User-42\\workspace\\Coffee\\Coffee\\Coffee.csproj",
+      "projectUniqueName": "C:\\Users\\User-42\\workspace\\Coffee\\Coffee\\CoffeeShop.csproj",
+      "projectName": "CoffeeShop",
+      "projectPath": "C:\\Users\\User-42\\workspace\\Coffee\\Coffee\\CoffeeShop.csproj",
       "packagesPath": "C:\\Users\\User-42\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User-42\\workspace\\Coffee\\Coffee\\obj\\",
       "projectStyle": "PackageReference",
